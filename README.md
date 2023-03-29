@@ -1,5 +1,7 @@
 # Twitter Scraper and Analyzer
 
+<img src="https://github.com/Ebuka456/twitter_scraping_practice/blob/main/Twitter%20practice/images%20(3).jpg" alt="Alt text" style= "width: 600px; height: 250px"/>
+
 This Python script allows you to scrape tweets from Twitter using snscrape, a more advanced alternative to Tweepy. Additionally, it provides a basic analysis of the collected data to help you identify trends and insights.
 
 ## Features
